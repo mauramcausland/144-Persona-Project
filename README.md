@@ -1,10 +1,14 @@
 # 144-Persona-Project
 relationship between volleyball stats
 
+## Motivation
+As a Division III volleyball player, I spend every day surrounded by the strategy, rhythm, and competitive dynamics of the sport. Playing at the collegiate level has not only deepened my love for volleyball, but has also sparked an interest in the statistical patterns behind team success. Because I regularly analyze match film and scout reports, I became increasingly curious about which measurable factors truly contribute to high-level performance across Division I volleyball. This project is motivated by that curiosity. By examining NCAA Division I team statistics, I aim to identify the offensive metrics most strongly associated with team success. Ultimately, I hope that uncovering these patterns can help illuminate what makes a great volleyball team and provide insights that extend beyond my own division and experience.
+
 Dataset: https://github.com/mauramcausland/144-Persona-Project/blob/main/Book%206(Sheet1).csv
 
+## Visualization
 ![Hitting vs Win%](144-PDP-Graph.png)
-**Figure 1.** This scatterplot shows the relationship between each Division I volleyball team's win percentage and their team hitting percentage ((#kills - #errors)/total attempts). Each point represents a team, with a color legend for number of hitting errors made by a team. The visualization suggests a positive association: teams with higher win percentages tend to have a higher hitting percentage. However, with the gradient legend, you can see that teams who make more hitting errors tend to have a higher win percentages. This could be due to those teams playing more sets, more chances to make errors, or those teams are willing to take more risks with swings leading to higher error but also higher kills. This supports the intuition that strong offensive performance (more successful attacks) contributes to overall team success.
+**Figure 1.** This scatterplot shows the relationship between each Division I volleyball team's win percentage and their team hitting percentage ((#kills - #errors)/total attempts). Each point represents a team, with a color legend for number of hitting errors made by a team. The visualization suggests a positive association: teams with higher win percentages tend to have a higher hitting percentage. However, with the gradient legend, you can see that teams who make more hitting errors tend to have a higher win percentages compared to teams with the same hitting percentage. This could be due to those teams playing more sets, more chances to make errors, or those teams are willing to take more risks with swings leading to higher error but also higher kills. This supports the intuition that strong offensive performance (more successful attacks) contributes to overall team success.
 
 ## Summary Statistics for Kills
 
