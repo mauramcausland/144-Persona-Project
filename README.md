@@ -1,4 +1,4 @@
-# 144-PersonaL-Project
+# 144-Personal-Project
 relationship between volleyball stats
 
 ## Motivation
